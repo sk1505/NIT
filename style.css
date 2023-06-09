@@ -47,6 +47,11 @@ h3,h4{
     font-family: 'Poppins', sans-serif; 
     
 }
+.btn-group {
+  position: relative;
+  display: block;
+  vertical-align: middle;
+}
 
 .titleimg{
         width: 70%;
